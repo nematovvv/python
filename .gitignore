@@ -1,0 +1,16 @@
+# Environment variables (NEVER commit secrets)
+.env
+.env.*
+
+# JetBrains IDE
+.idea/
+
+# Python extras you will almost certainly want
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# macOS
+.DS_Store
